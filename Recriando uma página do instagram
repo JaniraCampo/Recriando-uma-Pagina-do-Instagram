@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UFT-8">
+    <meta name="viewport" content="width=device-width, inicial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Instagram-Flowers</title>
+</head>
+<body>
+    <div class="instagram-wrapper">
+        <div class="instagram-layout"></div>
+            <img src="./instagram-layout.jpg" alt="layout">
+    </div>
+
+    <div class="instagram-continue">
+        <div class="group">
+            <img src="./instagram-logo.png" alt="instagram-logo">
+            <div class="profile-photo">
+                <img src="./Flower.png" alt="flower foto de perfil">
+            </div>
+            <a href="#" class="instagram-login">Continue como Flower Janira</a>
+            <a href="#" class="instagram-logout">Remover conta</a>
+        </div>
+    </div>
+
+    <div class="group">
+        <p class="not-account"> Não é Flower Janira? </p>
+        <p class="not account">
+            <span class="link-blue">Alternar contas</span>
+            ou 
+            <span class="link-blue">Inscreva-se</span>
+        </p>
+    </div>
+
+    <div class="get-the-app">
+        <p class="get-the-app">Baixe o aplicativo</p>
+        <div class = "apple-buttom"></div>
+            <img src="./apple-button.png" alt="apple">
+        <div class = "google-button"></div>
+            <img src="./googleplay-button.png" alt="google">
+        <div class="download">
+            <a href="#" class="app-download"></a>
+            <a href="#" class="app-download"></a>
+        </div>
+    </div>
+
+</body>
+
+</html>
