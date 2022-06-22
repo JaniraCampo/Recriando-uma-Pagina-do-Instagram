@@ -1,4 +1,4 @@
-# Desafio: Recriando-uma-Pagina-do-Instagram#
+# Desafio: Recriando uma Página do Instagram #
 
 O desafio consiste na utilização de Flexbox, HTML5 e CSS para recriar uma página do Instagram
 
